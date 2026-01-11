@@ -1,5 +1,5 @@
 def main():
-    print("chicken")
+    print("asdf")
     
     
 
